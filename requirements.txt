@@ -1,7 +1,4 @@
 opencv-python==4.7.0.72
-pytorch==2.0.0
-torchvision==0.15.0
-pytorch-cuda==11.8
 diffusers==0.24.0
 transformers==4.25.1
 xformers
